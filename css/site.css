@@ -1,0 +1,23 @@
+h4 {
+  color: #010101;
+  font-size: 100%;
+  font-family: italic, sans-serif;
+  text-align: center;
+}
+h5 {
+  color: #010101;
+  font-size: 100%;
+  font-family: italic, sans-serif;
+  text-align: center;
+}
+h6 {
+  color: #010101;
+  font-size: 100%;
+  font-family: italic, sans-serif;
+  text-align: center;
+}
+p{
+	font-style: italic bold;
+	font-weight: bold;
+	text-align: center;
+}
